@@ -37,9 +37,9 @@ The count is used to eliminate letters from the FLAMES list in a circular manner
 ---
 
 ## 🖼️ Screenshot
-![Application Screenshot]()
+![Application Screenshot](FLAMES-Game-Python/screenshot1.png)
 
-![Application Screenshot]()
+![Application Screenshot](FLAMES-Game-Python/screenshot2.png)
 
 ---
 
